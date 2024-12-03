@@ -27,7 +27,7 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/quentin-etourmy-5325571b4/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/quentin-etourmy-5325571b4/)
 &nbsp;&nbsp;
