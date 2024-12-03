@@ -9,7 +9,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css-essai?style=flat-square&logo=CSS3&logoColor=black&logoSize=violet&labelColor=%230082F0&color=%230082F0"/> 
   <img alt="php" src="https://img.shields.io/badge/PHP-essai?style=flat-square&logo=php&logoColor=black&logoSize=violet&labelColor=%23777BB4&color=%23777BB4"/>  
   
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+
+
+
+
+# Hi there, I'm Quentin  👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -19,7 +23,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Quentin, Je suis développeur !
+## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
