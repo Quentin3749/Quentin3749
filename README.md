@@ -5,7 +5,7 @@
 
 - 🔭 Check my background and projects through my portfolio!
 - 🌱 Currently, I am developing my skills in the field of programming.
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I am looking to collaborate with other content creators to expand our creative horizons.
 - 🥅 2025 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
