@@ -4,7 +4,7 @@
 ## Je suis étudiant en deuxieme année du BTS SIO option SLAM  avec l"objectif de venir developpeur 😉!
 
 - 🔭 Check out my VS Code course: !
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Currently, I am developing my skills in the field of programming. 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
