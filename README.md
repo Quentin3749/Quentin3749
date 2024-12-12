@@ -7,7 +7,7 @@
 - 🌱 Currently, I am developing my skills in the field of programming.
 - 👯 I am looking to collaborate with other content creators to expand our creative horizons.
 - 🥅 Goals for 2025: join an innovative company.
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love drawing, running, and I'm about to start learning the guitar.
 
 ### Connect with me:
 
