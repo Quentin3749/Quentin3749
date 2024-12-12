@@ -1,7 +1,7 @@
 # Hi there, Moi c'est Quentin  👋 
 
 
-## Je suis étudiant en deuxieme année du BTS SIO option SLAM  avec l"objectif de devenir developpeur 😉!
+## Je suis étudiant en deuxieme année du BTS SIO option SLAM  avec l"objectif de devenir developpeur full stack 😉!
 
 - 🔭 Check my background and projects through my portfolio!
 - 🌱 Currently, I am developing my skills in the field of programming.
