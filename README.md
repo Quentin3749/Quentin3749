@@ -3,7 +3,7 @@
 
 ## Je suis étudiant en deuxieme année du BTS SIO option SLAM  avec l"objectif de venir developpeur 😉!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Check out my VS Code course: !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Learn more about web3
