@@ -21,6 +21,8 @@
 
 [![website](./img/icônes8-linkedin-48.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 ![LinkedIn](./img/icons8-linkedin-48.svg)
+![Gmail](./img/icons8-gmail-48.svg)
+
 ### Languages and Tools:
 
  
