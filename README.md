@@ -20,7 +20,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 [![website](./img/icônes8-linkedin-48.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[!LinkedIn](./img/icons8-linkedin-48.svg)
+![LinkedIn](./img/icons8-linkedin-48.svg)
 ### Languages and Tools:
 
  
