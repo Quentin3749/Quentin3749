@@ -21,7 +21,7 @@
 
 [![website](./img/icônes8-linkedin-48.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 
-
+[![website](./img/icons8-linkedin-48.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 ### Languages and Tools:
 
  
