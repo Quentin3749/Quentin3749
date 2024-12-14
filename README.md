@@ -13,10 +13,10 @@
 
 
 
-[![website](./img/icônes8-linkedin-48.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+ [![website](./img/icônes8-linkedin-48.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 
 
-![LinkedIn](./img/icons8-linkedin-48.svg)
+<a href="https://www.linkedin.com/in/quentin-etourmy-5325571b4/" target="_blank">![LinkedIn](./img/icons8-linkedin-48.svg)</a>
 
 
 ![Gmail](./img/icons8-gmail-48.svg)
