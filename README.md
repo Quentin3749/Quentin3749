@@ -16,12 +16,11 @@
 
 
 <a href="https://www.linkedin.com/in/quentin-etourmy-5325571b4/" target="_blank">![LinkedIn](./img/icons8-linkedin-48.svg)</a>
-
-
+<a href="https://www.instagram.com/quentindevweb?igsh=NXpybHZmdGRqd3M4" target="_blank">![Instagram](./img/icons8-instagram-48.svg)</a>
 <a href="mailto:q.etourmy.pro@gmail.com" target="_blank">![Gmail](./img/icons8-gmail-48.svg)</a>
 
 
-<a href="https://www.instagram.com/quentindevweb?igsh=NXpybHZmdGRqd3M4" target="_blank">![Instagram](./img/icons8-instagram-48.svg)</a>
+
 
 ### Languages and Tools:
 
