@@ -21,7 +21,7 @@
 <a href="q.etourmy.pro@gmail.com">![Gmail](./img/icons8-gmail-48.svg)</a>
 
 
-![Instagram](./img/icons8-instagram-48.svg)
+<a href="https://www.instagram.com/quentindevweb?igsh=NXpybHZmdGRqd3M4" target="_blank">![Instagram](./img/icons8-instagram-48.svg)</a>
 
 ### Languages and Tools:
 
