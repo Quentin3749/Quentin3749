@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/quentin-etourmy-5325571b4/" target="_blank">![LinkedIn](./img/icons8-linkedin-48.svg)</a>
 
 
-![Gmail](./img/icons8-gmail-48.svg)
+<a href="q.etourmy.pro@gmail.com">![Gmail](./img/icons8-gmail-48.svg)</a>
 
 
 ![Instagram](./img/icons8-instagram-48.svg)
