@@ -9,7 +9,7 @@
 - 🥅 Goals for 2025: join an innovative company.
 - ⚡ Fun fact: I love drawing, running, and I'm starting to learn the guitar.
 
-### Connect with me:
+### Contact me by clicking on :
 
 
 
